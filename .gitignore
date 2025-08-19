@@ -1,2 +1,5 @@
 .env
 .idea
+Langchain/*.pkl
+Equity_Reserch_Tolls/faiss_store_grog.pkl
+Equity_Reserch_Tolls/*.pkl
